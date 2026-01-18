@@ -7,13 +7,11 @@
 * [Business Problem](#business-problem)
 * [Dataset Description](#dataset-description)
 * [Technologies Used](#technologies-used)
-* [Installation & Setup](#installation--setup)
-* [Project Structure](#project-structure)
 * [Analysis Steps](#analysis-steps)
 * [Key Findings](#key-findings)
 * [Model Comparison](#model-comparison)
-* [Conclusions](#conclusions)
 * [Recommendations](#recommendations)
+* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
